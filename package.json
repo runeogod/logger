@@ -1,0 +1,11 @@
+{
+  "name": "errorReporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christopher Redfield <anonylul@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.5.12",
+    "validator": "^11.0.0"
+  }
+}
